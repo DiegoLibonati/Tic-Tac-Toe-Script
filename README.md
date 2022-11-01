@@ -180,3 +180,7 @@ def IA_vs_IA():
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Tic-Tac-Toe%20script`
 
 ## Video
+
+
+https://user-images.githubusercontent.com/99032604/199145589-418c937e-2e43-48ff-9ba8-5834eabb752c.mp4
+
