@@ -33,7 +33,7 @@ I made a tic tac toe in python using the console to play. Basically the user wil
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Tic-Tac-Toe%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Tic-Tac-Toe%20Script`
 
 ## Video
 
